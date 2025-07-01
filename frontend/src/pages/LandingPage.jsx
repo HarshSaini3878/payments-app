@@ -234,7 +234,7 @@ const LandingPage = () => {
       {/* Footer */}
       <footer className="bg-indigo-900 text-white py-8">
         <div className="container mx-auto px-6 text-center">
-          <p>&copy; 2023 PaymentsApp. All rights reserved.</p>
+          <p>&copy; 2025 PaymentsApp. All rights reserved.</p>
           <div className="mt-4">
             <a href="#" className="text-indigo-300 hover:text-white mx-2">Privacy Policy</a>
             <a href="#" className="text-indigo-300 hover:text-white mx-2">Terms of Service</a>
